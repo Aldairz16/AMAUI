@@ -45,7 +45,7 @@ export const MedicationScreen = () => {
                     ¡Hola, Amable!
                 </LargeText>
                 <View style={styles.avatarContainer}>
-                    <Image source={require('../../assets/icon.png')} style={styles.avatar} />
+                    <Image source={require('../../../assets/icon.png')} style={styles.avatar} />
                 </View>
             </View>
 
